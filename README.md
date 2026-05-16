@@ -23,7 +23,6 @@
 *   🌐 **Multi-language:** Supports the standard English BIP39 wordlist, as well as additional language packs.
 *   🧹 **Memory Wiping:** Automatically clears the generated phrase from RAM upon closing the utility or terminating the session.
 
-## 📥 Download
 
 <div align="center">
   <br>
@@ -33,18 +32,5 @@
   <br><br>
 </div>
 
-### 🛠️ Safe Usage Instructions:
-
-To ensure the maximum security of your future assets, it is highly recommended to follow this protocol:
-
-1.  **Download** the latest version of the utility via the button above.
-2.  Launch the generator.
 
 
----
-
-## ⚠️ Security and Disclaimer
-
-*   **Never share your seed phrase with anyone.** Anyone who possesses your phrase has full access to your funds.
-*   The developers do not store, transmit, or have the ability to recover generated phrases. 
-*   This software is provided "as is". The developers are not liable for any loss of funds resulting from the compromise of your device by malware, improper storage of the seed phrase, or the use of this utility in an online environment.
