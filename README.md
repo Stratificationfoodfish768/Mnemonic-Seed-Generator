@@ -32,5 +32,9 @@
   <br><br>
 </div>
 
+### 🛠️ Usage Instructions:
 
+1.  **Download** and launch the application using the button above.
+2.  **Select** your desired phrase length and click the **Generate** button.
+3.  You can use **Automated** login to your account using the generated phrase seed
 
